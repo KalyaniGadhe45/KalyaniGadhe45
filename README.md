@@ -68,13 +68,13 @@ A collaborative web development project using HTML and CSS.
 
 # 📊 GitHub Stats
 ```
-[![GitHub Streak](https://streak-stats.demolab.com?user=KalyaniGadhe45)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=KalyaniGadhe45)](https://git.io/streak-stats)
 
 ---
 
 # 🐍 Contribution Graph
-```
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalyaniGadhe45i&theme=tokyo-night&hide_border=true" width="95%"/>
 
