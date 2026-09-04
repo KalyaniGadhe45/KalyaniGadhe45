@@ -24,12 +24,10 @@ Goal        : Become a Skilled Software Developer
 
 
 # 🛠️ Tech Stack
-```
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,php,java,c,cpp,git,github,vscode&perline=6" />
 </p>
-
----
 
 # 🚀 My Projects
 
@@ -67,6 +65,7 @@ A collaborative web development project using HTML and CSS.
 ---
 
 # 📊 GitHub Stats
+
 ```
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=KalyaniGadhe45)](https://git.io/streak-stats)
@@ -75,6 +74,7 @@ A collaborative web development project using HTML and CSS.
 
 # 🐍 Contribution Graph
 
+```
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalyaniGadhe45i&theme=tokyo-night&hide_border=true" width="95%"/>
 
@@ -84,6 +84,7 @@ A collaborative web development project using HTML and CSS.
 
 # 📫 Connect With Me
 
+```
 <p align="center">
   <a href="https://github.com/KalyaniGadhe45">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
