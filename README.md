@@ -79,6 +79,7 @@ A collaborative web development project using HTML and CSS.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalyaniGadhe45i&theme=tokyo-night&hide_border=true" width="95%"/>
+  ![Contribution Graph](./github-user-contribution.svg)
 </p>
 
 ---
