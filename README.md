@@ -2,11 +2,8 @@
 
 ### 💻 B.Sc. Computer Science Student | 🌐 Web Developer | 🚀 Tech Enthusiast
 
-    
-
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile+!+" alt="Typing SVG"/></a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+My+GitHub+Profile!" />
 </p>
 
 ---
@@ -15,14 +12,14 @@
 
 ```yaml
 Name        : Kalyani Gadhe
-Education   : B.Sc. Computer Science
+Education   : B.S.C. Computer Science
 Role        : Computer Science Student & Web Developer
 Learning    : JavaScript | Python | Web Development
 Interests   : Web Development | Programming | Technology
 Goal        : Become a Skilled Software Developer
+```
 
 ---
-
 
 # 🛠️ Tech Stack
 
@@ -50,6 +47,7 @@ A group project related to agriculture and pesticide prediction.
 
 A college website project developed using HTML.
 
+
 ### 🌐 CSS Group Project
 
 A collaborative web development project using HTML and CSS.
@@ -69,26 +67,24 @@ A collaborative web development project using HTML and CSS.
 
 # 📊 GitHub Stats
 
-```
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?user=KalyaniGadhe45&show_icons=true&them=tokyonight" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KalyaniGadhe45&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KalyaniGadhe45)](https://git.io/streak-stats)
 
 ---
 
 # 🐍 Contribution Graph
 
-```
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KalyaniGadhe45i&theme=tokyo-night&hide_border=true" width="95%"/>
-
-![Contribution Graph](./github-user-contribution.svg)
 </p>
 
 ---
 
 # 📫 Connect With Me
 
-```
 <p align="center">
    <a href="https://github.com/KalyaniGadhe45">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
