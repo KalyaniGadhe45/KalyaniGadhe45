@@ -5,7 +5,7 @@
     
 
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile+!+" alt="Typing SVG" /></a>
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile+!+" alt="Typing SVG"/></a>
 
 </p>
 
@@ -20,6 +20,7 @@ Role        : Computer Science Student & Web Developer
 Learning    : JavaScript | Python | Web Development
 Interests   : Web Development | Programming | Technology
 Goal        : Become a Skilled Software Developer
+
 ---
 
 
@@ -28,6 +29,8 @@ Goal        : Become a Skilled Software Developer
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,php,java,c,cpp,git,github,vscode&perline=6" />
 </p>
+
+---
 
 # 🚀 My Projects
 
@@ -80,13 +83,14 @@ A collaborative web development project using HTML and CSS.
 
 ![Contribution Graph](./github-user-contribution.svg)
 </p>
+
 ---
 
 # 📫 Connect With Me
 
 ```
 <p align="center">
-  <a href="https://github.com/KalyaniGadhe45">
+   <a href="https://github.com/KalyaniGadhe45">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
